@@ -1,0 +1,48 @@
+Ajay Dinakar Kandavalli
+
+REM THIS PROGRAM DOES ABSOLUTELY NOTHING;
+	14	0
+DCL A
+	2	0
+	21	15
+DCL B
+	2	0
+	21	16
+DCL C
+	2	0
+	21	17
+LET A = 6
+	3	0
+	21	15
+	22	2
+	15	1
+TO
+	11	0
+READ B
+	8	0
+	21	16
+WRITE 5 + A * B / ( C - A)
+	9	0
+	22	3
+	15	1
+	15	0
+	21	15
+	16	0
+	21	16
+	16	1
+	17	 
+	21	18
+	15	1
+	21	19
+IF A < B THEN GOTO D
+	21	20
+	21	15
+	21	16
+	6	0
+	4	0
+	21	21
+WRITE B
+	9	0
+	21	16
+END
+	1	0
