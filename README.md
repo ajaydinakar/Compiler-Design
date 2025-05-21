@@ -126,4 +126,3 @@ This program is a practical example of a **lexical analyzer for the L756 languag
 
 ---
 
-If you need a more detailed, line-by-line explanation or have questions on a specific section, please ask!
